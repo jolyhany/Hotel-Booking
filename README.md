@@ -1,4 +1,3 @@
-# Hotel-Booking
 # Hotel Booking Cancellation Prediction
 
 ## Project Workflow
